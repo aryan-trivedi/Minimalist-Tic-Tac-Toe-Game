@@ -37,7 +37,9 @@ It’s a clean, responsive, and performance-focused implementation that highligh
 
 ## 📸 Preview
 
-_Add a screenshot here to showcase the UI._
+<img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/5ca65b14-5007-4586-816c-829394e6441e" />
+<img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/5ca65b14-5007-4586-816c-829394e6441e" />
+
 
 ```
 ![App Screenshot](./screenshot.png)
