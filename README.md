@@ -38,22 +38,13 @@ It’s a clean, responsive, and performance-focused implementation that highligh
 ## 📸 Preview
 
 <img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/5ca65b14-5007-4586-816c-829394e6441e" />
-<img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/5ca65b14-5007-4586-816c-829394e6441e" />
 
-
-```
-![App Screenshot](./screenshot.png)
-```
 
 ---
 
 ## 🌍 Live Demo
 
-_Deploy on Vercel and add the link here._
-
-```
-https://your-live-demo-link.vercel.app
-```
+Try Here:         https://minimalist-ttt.vercel.app/
 
 ---
 
